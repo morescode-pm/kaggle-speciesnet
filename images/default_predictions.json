@@ -1,0 +1,5252 @@
+{
+  "predictions": [
+    {
+      "filepath": "images\\image_0.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+          "d5f41e40-03b5-466b-a269-d0dddab44cb5;aves;passeriformes;turdidae;turdus;philomelos;song thrush",
+          "6acc4360-3b6c-4b7e-9d77-3c266e17255b;aves;passeriformes;turdidae;catharus;ustulatus;russet-backed thrush"
+        ],
+        "scores": [
+          0.6056548357009888,
+          0.09341584146022797,
+          0.032806117087602615,
+          0.012484033592045307,
+          0.011892811395227909
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8512464761734009,
+          "bbox": [
+            0.5685763731598854,
+            0.401041679084301,
+            0.1295572966337204,
+            0.10619212687015533
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7562536392360926,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_1.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "23140944-2bd7-46ce-819a-c26508c53d62;aves;passeriformes;turdidae;turdus;migratorius;american robin",
+          "a92f5ecb-13d3-44b1-837f-d085d2e2ea19;aves;columbiformes;columbidae;;;columbidae family",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order"
+        ],
+        "scores": [
+          0.7708883881568909,
+          0.013964876532554626,
+          0.013386075384914875,
+          0.013136628083884716,
+          0.012320846319198608
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9582887291908264,
+          "bbox": [
+            0.1382378414273262,
+            0.47280095517635345,
+            0.1098090261220932,
+            0.21238425374031067
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7708883881568909,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_10.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "1755723e-73f4-44f1-b945-390378259c46;mammalia;diprotodontia;potoroidae;;;potoroidae family",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo"
+        ],
+        "scores": [
+          0.14572560787200928,
+          0.08971021324396133,
+          0.08020380139350891,
+          0.06569989025592804,
+          0.06419976055622101
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9449727535247803,
+          "bbox": [
+            0.0,
+            0.515625,
+            0.4266493022441864,
+            0.2265625
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9449727535247803,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_100.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.5740519762039185,
+          0.30454540252685547,
+          0.07584759593009949,
+          0.007360316812992096,
+          0.004680075217038393
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.5740519762039185,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_101.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.9601201415061951,
+          0.020932497456669807,
+          0.003329559462144971,
+          0.0033101895824074745,
+          0.0031260065734386444
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.011051285080611706,
+          "bbox": [
+            0.3591580092906952,
+            0.5778356269001961,
+            0.6408420205116272,
+            0.22193287312984467
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9601201415061951,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_102.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.545738160610199,
+          0.24332620203495026,
+          0.15449771285057068,
+          0.01650400646030903,
+          0.008627621456980705
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7253675013780594,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_103.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.5584395527839661,
+          0.33413752913475037,
+          0.0675988718867302,
+          0.004842088092118502,
+          0.004622789565473795
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.5584395527839661,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_104.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.49867215752601624,
+          0.3326777219772339,
+          0.10222763568162918,
+          0.013000200502574444,
+          0.006357250735163689
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.49867215752601624,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_105.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.7478466033935547,
+          0.11834456771612167,
+          0.09048335999250412,
+          0.008248324505984783,
+          0.006290833465754986
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7478466033935547,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_106.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.6780841946601868,
+          0.20803020894527435,
+          0.06027322635054588,
+          0.010385219939053059,
+          0.006241956725716591
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6780841946601868,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_107.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+          "4adcb4cf-9ed3-4596-9f56-931ed644007e;reptilia;testudines;;;;turtle order",
+          "6de041e9-509c-481b-9f7f-4c5e8c1d86bd;aves;anseriformes;anatidae;mareca;americana;american wigeon",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "d792dde9-0047-4b8e-9643-0e6e05d89f05;aves;anseriformes;anatidae;aix;sponsa;wood duck"
+        ],
+        "scores": [
+          0.48639407753944397,
+          0.07576008886098862,
+          0.050001733005046844,
+          0.04813341051340103,
+          0.036683134734630585
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9242871403694153,
+          "bbox": [
+            0.2432725578546524,
+            0.32609952986240387,
+            0.1553819477558136,
+            0.14091435074806213
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8707568049430847,
+          "bbox": [
+            0.6050346940755844,
+            0.5338541567325592,
+            0.1671006977558136,
+            0.1623263955116272
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.5020118355751038,
+          "bbox": [
+            0.453776054084301,
+            0.4042245224118233,
+            0.0874565988779068,
+            0.10532407462596893
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.41571536660194397,
+          "bbox": [
+            0.6827257126569748,
+            0.4383680522441864,
+            0.0713975727558136,
+            0.0859375
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.1485995650291443,
+          "bbox": [
+            0.552517369389534,
+            0.3932291604578495,
+            0.1258680522441864,
+            0.10706018656492233
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.696972444653511,
+      "prediction_source": "classifier+rollup_to_kingdom",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_108.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "1110460b-7f99-405b-a9b0-65a09ecccca1;aves;pelecaniformes;ardeidae;tigrisoma;lineatum;rufescent tiger-heron",
+          "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+          "9ba3565d-9934-4e74-8ef4-d110ad587014;aves;galliformes;phasianidae;phasianus;colchicus;ring-necked pheasant",
+          "c9458d94-dc59-4fb2-bc08-c12ee47a3bf8;aves;strigiformes;strigidae;scotopelia;peli;pel's fishing-owl"
+        ],
+        "scores": [
+          0.5266532897949219,
+          0.10316849499940872,
+          0.08914822340011597,
+          0.040916524827480316,
+          0.02615855075418949
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.34255167841911316,
+          "bbox": [
+            0.0,
+            0.4100115895271301,
+            0.1467013955116272,
+            0.5190972089767456
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.16683430969715118,
+          "bbox": [
+            0.000651046633720398,
+            0.4207175672054291,
+            0.4010416567325592,
+            0.5350115895271301
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.08481311053037643,
+          "bbox": [
+            0.1067708283662796,
+            0.6924189925193787,
+            0.2921006977558136,
+            0.2612847089767456
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7860450837761164,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_109.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.4306703805923462,
+          0.4126702845096588,
+          0.10673735290765762,
+          0.010138239711523056,
+          0.005593450274318457
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.4306703805923462,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_11.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "d5636405-819a-495a-b2d1-0f802d52c1bd;aves;passeriformes;mimidae;dumetella;carolinensis;grey catbird",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "10305f48-5dce-47ec-a3fe-17d9b96fddfa;aves;passeriformes;turdidae;turdus;;turdus species"
+        ],
+        "scores": [
+          0.5515795946121216,
+          0.09621351212263107,
+          0.030113082379102707,
+          0.02198808826506138,
+          0.00982289295643568
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9113378524780273,
+          "bbox": [
+            0.1890190988779068,
+            0.3793402761220932,
+            0.2276475727558136,
+            0.18778935074806213
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7097171703353524,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_110.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.74349045753479,
+          0.21569950878620148,
+          0.019548967480659485,
+          0.0020304438658058643,
+          0.001736783771775663
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.74349045753479,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_111.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.5368691682815552,
+          0.3230590522289276,
+          0.0812075063586235,
+          0.009875621646642685,
+          0.005845320411026478
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.5368691682815552,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_112.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+          "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer"
+        ],
+        "scores": [
+          0.9996505975723267,
+          0.0001009977568173781,
+          3.714943886734545e-05,
+          3.1924799259286374e-05,
+          2.9124772481736727e-05
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.010336074978113174,
+          "bbox": [
+            0.0,
+            0.30410880595445633,
+            0.0425347238779068,
+            0.0746527761220932
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9996505975723267,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_113.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+          "c17f977b-3f04-41e1-9ad2-4958a0a18a4c;aves;galliformes;cracidae;crax;fasciolata;bare-faced curassow",
+          "f8396264-caac-4612-b880-c60b4d0939ae;aves;galliformes;cracidae;ortalis;canicollis;chaco chachalaca"
+        ],
+        "scores": [
+          0.8072604537010193,
+          0.05382588133215904,
+          0.0453462153673172,
+          0.008360489271581173,
+          0.0055714803747832775
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01897621527314186,
+          "bbox": [
+            0.0,
+            0.7097800895571709,
+            0.125,
+            0.24681712687015533
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8072604537010193,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_114.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "3eb879eb-3453-4500-b61f-eca3d1397828;aves;passeriformes;tyrannidae;;;tyrannidae family"
+        ],
+        "scores": [
+          0.6700652837753296,
+          0.04193469136953354,
+          0.02784772217273712,
+          0.019222203642129898,
+          0.010920352302491665
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8892043828964233,
+          "bbox": [
+            0.620442733168602,
+            0.5543981641530991,
+            0.0850694477558136,
+            0.16435185074806213
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6700652837753296,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_115.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.41172492504119873,
+          0.3322714567184448,
+          0.16409695148468018,
+          0.01957024447619915,
+          0.016597475856542587
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.41172492504119873,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_116.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8689452409744263,
+          0.08489234000444412,
+          0.027054451406002045,
+          0.0025776741094887257,
+          0.0020363281946629286
+        ]
+      },
+      "detections": [],
+      "prediction": "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+      "prediction_score": 0.8689452409744263,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_117.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin"
+        ],
+        "scores": [
+          0.9788957238197327,
+          0.0026887687854468822,
+          0.001177240745164454,
+          0.001160691026598215,
+          0.0007935564499348402
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9372357130050659,
+          "bbox": [
+            0.0800781324505806,
+            0.4594907686114311,
+            0.1516927033662796,
+            0.17650462687015533
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9788957238197327,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_118.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9846798777580261,
+          0.00738873053342104,
+          0.0015601121122017503,
+          0.0013963837409392,
+          0.0010437825694680214
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01254329364746809,
+          "bbox": [
+            0.4108072817325592,
+            0.5899883955717087,
+            0.5891926884651184,
+            0.2178819477558136
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9846798777580261,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_119.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.6040447950363159,
+          0.26568254828453064,
+          0.07649427652359009,
+          0.006855663377791643,
+          0.0039551351219415665
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6040447950363159,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_12.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "9619e395-2b9c-4531-b9ac-aa338e079689;aves;passeriformes;pittidae;pitta;;pitta species",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow"
+        ],
+        "scores": [
+          0.9614598155021667,
+          0.0055764950811862946,
+          0.002677188254892826,
+          0.0022378915455192327,
+          0.0013365143677219748
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.881507158279419,
+          "bbox": [
+            0.1907552108168602,
+            0.5905671343207359,
+            0.0805121511220932,
+            0.19936342537403107
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9614598155021667,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_120.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.7610287666320801,
+          0.1553810089826584,
+          0.041573867201805115,
+          0.0044978889636695385,
+          0.003713206620886922
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7610287666320801,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_121.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8286705017089844,
+          0.07690658420324326,
+          0.04858534783124924,
+          0.004385207314044237,
+          0.004059269558638334
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8286705017089844,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_122.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.7303714752197266,
+          0.12124070525169373,
+          0.07066979259252548,
+          0.006722548045217991,
+          0.00577026279643178
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7303714752197266,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_123.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9753090739250183,
+          0.006682373583316803,
+          0.004769396036863327,
+          0.0023888659197837114,
+          0.001998412888497114
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.0109164509922266,
+          "bbox": [
+            0.4281684160232544,
+            0.5899884179234505,
+            0.5718315839767456,
+            0.21296297013759613
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9753090739250183,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_124.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.4679866433143616,
+          0.2709222137928009,
+          0.1646987795829773,
+          0.01232949923723936,
+          0.009055578149855137
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.4679866433143616,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_125.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9315643310546875,
+          0.023042500019073486,
+          0.007584952283650637,
+          0.006917980033904314,
+          0.006725215818732977
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.017796561121940613,
+          "bbox": [
+            0.3621962070465088,
+            0.5885416641831398,
+            0.6378037929534912,
+            0.21585647761821747
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9315643310546875,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_126.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "d68ed01f-2668-428c-9358-1dc576891256;aves;cuculiformes;cuculidae;centropus;phasianinus;pheasant coucal"
+        ],
+        "scores": [
+          0.7888690829277039,
+          0.14506782591342926,
+          0.02694639191031456,
+          0.0032456624321639538,
+          0.00237303227186203
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7888690829277039,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_127.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9242950677871704,
+          0.03887666389346123,
+          0.009805221110582352,
+          0.008189233019948006,
+          0.0029478694777935743
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.02728576958179474,
+          "bbox": [
+            0.36328125,
+            0.5633680373430252,
+            0.63671875,
+            0.2430555522441864
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9242950677871704,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_128.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.5791600346565247,
+          0.17233490943908691,
+          0.13695082068443298,
+          0.02204551175236702,
+          0.01166172418743372
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.5791600346565247,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_129.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9649340510368347,
+          0.015027784742414951,
+          0.00507915485650301,
+          0.004640069790184498,
+          0.0023973463103175163
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.016999900341033936,
+          "bbox": [
+            0.3654513657093048,
+            0.5740740820765495,
+            0.6345486044883728,
+            0.23119212687015533
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9649340510368347,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_13.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.8076047301292419,
+          0.1469440907239914,
+          0.026499487459659576,
+          0.0028246217407286167,
+          0.00169370009098202
+        ]
+      },
+      "detections": [],
+      "prediction": "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+      "prediction_score": 0.8076047301292419,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_130.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.8622394800186157,
+          0.06063130125403404,
+          0.04562969133257866,
+          0.005313526839017868,
+          0.003941625356674194
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8622394800186157,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_131.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "d372cda5-a8ca-4b7b-97ed-4e4fab9c9b4b;mammalia;cetartiodactyla;suidae;sus;scrofa;wild boar",
+          "225c3eb1-eb87-4e93-bfaf-bbcb5ea1585c;mammalia;primates;cercopithecidae;macaca;arctoides;stump-tailed macaque",
+          "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird"
+        ],
+        "scores": [
+          0.9909810423851013,
+          0.007209553848952055,
+          0.00015619993791915476,
+          0.00014942503185011446,
+          0.000136715461849235
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.05050070211291313,
+          "bbox": [
+            0.9574652519077063,
+            0.0329861119389534,
+            0.0345052070915699,
+            0.0407986119389534
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9909810423851013,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_132.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9663772583007812,
+          0.012118970043957233,
+          0.0046670930460095406,
+          0.003995648119598627,
+          0.003931659273803234
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.03137876093387604,
+          "bbox": [
+            0.3348524570465088,
+            0.5813078582286835,
+            0.6651475429534912,
+            0.2282986044883728
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9663772583007812,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_133.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9589643478393555,
+          0.02061334438621998,
+          0.006933463737368584,
+          0.003924747463315725,
+          0.0026019341312348843
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.03235214576125145,
+          "bbox": [
+            0.385633647441864,
+            0.5862268805503845,
+            0.6137152910232544,
+            0.21990740299224854
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9589643478393555,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_134.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9251295924186707,
+          0.03498995676636696,
+          0.014030160382390022,
+          0.010042104870080948,
+          0.004109105560928583
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01734141632914543,
+          "bbox": [
+            0.3721787929534912,
+            0.5781250074505806,
+            0.6278212070465088,
+            0.22858797013759613
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9251295924186707,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_135.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9841511249542236,
+          0.006362300366163254,
+          0.0022087895777076483,
+          0.001741684158332646,
+          0.0015680876094847918
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.02948485128581524,
+          "bbox": [
+            0.3487412929534912,
+            0.5868055298924446,
+            0.6512587070465088,
+            0.21412037312984467
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9841511249542236,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_136.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.8959884643554688,
+          0.03573741763830185,
+          0.016736019402742386,
+          0.01427292637526989,
+          0.012195155024528503
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.014309998601675034,
+          "bbox": [
+            0.3682725429534912,
+            0.5732060223817825,
+            0.6317274570465088,
+            0.23292824625968933
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8959884643554688,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_137.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9271067976951599,
+          0.023802408948540688,
+          0.013374886475503445,
+          0.009938064962625504,
+          0.007631486747413874
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.06777768582105637,
+          "bbox": [
+            0.3474392592906952,
+            0.5818865969777107,
+            0.6525607705116272,
+            0.2230902761220932
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9271067976951599,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_138.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "d68ed01f-2668-428c-9358-1dc576891256;aves;cuculiformes;cuculidae;centropus;phasianinus;pheasant coucal"
+        ],
+        "scores": [
+          0.579552948474884,
+          0.23835748434066772,
+          0.05571173503994942,
+          0.015548611991107464,
+          0.01029654685407877
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.579552948474884,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_139.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+          "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+          "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+        ],
+        "scores": [
+          0.996766209602356,
+          0.0008928148308768868,
+          0.0002468641323503107,
+          0.00016557938943151385,
+          0.0001254924136446789
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.04232249781489372,
+          "bbox": [
+            0.9791666464880109,
+            0.024884261190891266,
+            0.02083333395421505,
+            0.13078702986240387
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.011467200703918934,
+          "bbox": [
+            0.982421875,
+            0.004050929099321365,
+            0.017578125,
+            0.06712962687015533
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.996766209602356,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_14.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+          "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+          "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+        ],
+        "scores": [
+          0.9969236254692078,
+          0.0005016812938265502,
+          0.0004974135081283748,
+          0.00037978787440806627,
+          6.257512723095715e-05
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.02609115280210972,
+          "bbox": [
+            0.0,
+            0.6932870596647263,
+            0.111328125,
+            0.26244214177131653
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9969236254692078,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_140.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.7491621971130371,
+          0.10883137583732605,
+          0.0595039539039135,
+          0.011235857382416725,
+          0.00678560184314847
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7491621971130371,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_141.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9902330636978149,
+          0.0030636372976005077,
+          0.00223569106310606,
+          0.0012943290639668703,
+          0.0007708081975579262
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.025070831179618835,
+          "bbox": [
+            0.3528645932674408,
+            0.5946180447936058,
+            0.6471354365348816,
+            0.2083333283662796
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9902330636978149,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_142.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "4eae4c62-e867-465a-a1f3-536791efa6c4;aves;galliformes;phasianidae;;;phasianidae family",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order"
+        ],
+        "scores": [
+          0.4686187207698822,
+          0.12944826483726501,
+          0.051180798560380936,
+          0.03677036240696907,
+          0.025320328772068024
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.6091005802154541,
+          "bbox": [
+            0.0798611119389534,
+            0.43778934702277184,
+            0.0694444477558136,
+            0.0720486119389534
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6601576767861843,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_143.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "d68ed01f-2668-428c-9358-1dc576891256;aves;cuculiformes;cuculidae;centropus;phasianinus;pheasant coucal",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.8949243426322937,
+          0.04973018169403076,
+          0.02018957957625389,
+          0.0037739735562354326,
+          0.0030566693749278784
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8949243426322937,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_144.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird"
+        ],
+        "scores": [
+          0.9562152028083801,
+          0.0077400305308401585,
+          0.005650879815220833,
+          0.0015735977794975042,
+          0.0011440353700891137
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9562152028083801,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_145.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9505152702331543,
+          0.016752256080508232,
+          0.011863047257065773,
+          0.0022605627309530973,
+          0.002120191464200616
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9505152702331543,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_146.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.714220404624939,
+          0.1250196099281311,
+          0.08641345798969269,
+          0.012890439480543137,
+          0.007203766144812107
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.714220404624939,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_147.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9363822937011719,
+          0.031136944890022278,
+          0.013090384192764759,
+          0.0017888774164021015,
+          0.0011623824248090386
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9363822937011719,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_148.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9481326937675476,
+          0.02373819798231125,
+          0.007301263976842165,
+          0.001502632861956954,
+          0.0008288847748190165
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9481326937675476,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_149.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9267483353614807,
+          0.03355842083692551,
+          0.014187546446919441,
+          0.00262880465015769,
+          0.001244230312295258
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9267483353614807,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_15.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.6822568774223328,
+          0.25179141759872437,
+          0.0399184450507164,
+          0.004390296060591936,
+          0.0035634832456707954
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7301291017793119,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_16.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8160353302955627,
+          0.15979184210300446,
+          0.010776212438941002,
+          0.0018038629787042737,
+          0.0015360759571194649
+        ]
+      },
+      "detections": [],
+      "prediction": "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+      "prediction_score": 0.8160353302955627,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_17.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.6697646975517273,
+          0.27128225564956665,
+          0.03467485308647156,
+          0.004060643259435892,
+          0.004049507435411215
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6697646975517273,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_18.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.6020772457122803,
+          0.3464587926864624,
+          0.029096398502588272,
+          0.0030687141697853804,
+          0.0025403706822544336
+        ]
+      },
+      "detections": [],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.6020772457122803,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_19.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.7096768021583557,
+          0.25020238757133484,
+          0.020448116585612297,
+          0.001982957124710083,
+          0.0013499888591468334
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7334578647278249,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_2.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "e2895ed5-780b-48f6-8a11-9e27cb594511;;;;;;vehicle",
+          "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+          "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote",
+          "9805e578-061a-49c0-8abc-ea135381c162;aves;passeriformes;corvidae;corvus;corax;common raven"
+        ],
+        "scores": [
+          0.8851333856582642,
+          0.05858192965388298,
+          0.01058203261345625,
+          0.002753566252067685,
+          0.0014204259496182203
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.016422947868704796,
+          "bbox": [
+            0.0004340261220932007,
+            0.45978008955717087,
+            0.1486545205116272,
+            0.0972222238779068
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8851333856582642,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_20.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.7254102826118469,
+          0.2433270663022995,
+          0.015706397593021393,
+          0.0015870867064222693,
+          0.0014761086786165833
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7441798755899072,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_21.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "a92f5ecb-13d3-44b1-837f-d085d2e2ea19;aves;columbiformes;columbidae;;;columbidae family",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin",
+          "6bcf68d5-79c3-4779-b630-9aea80fb6b0f;aves;galliformes;phasianidae;alectoris;chukar;chukar"
+        ],
+        "scores": [
+          0.8567214012145996,
+          0.027938351035118103,
+          0.009315520524978638,
+          0.009084556251764297,
+          0.00707549462094903
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9010679125785828,
+          "bbox": [
+            0.5045572780072689,
+            0.5555555298924446,
+            0.0974392369389534,
+            0.17505787312984467
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8567214012145996,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_22.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.6533973217010498,
+          0.2915670871734619,
+          0.028536608442664146,
+          0.003114827675744891,
+          0.002086062217131257
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.6871348200365901,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_23.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "fd02a22d-cff0-40e3-98f5-8a7f77382463;aves;passeriformes;passerellidae;zonotrichia;leucophrys;white-crowned sparrow",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family"
+        ],
+        "scores": [
+          0.6596906185150146,
+          0.046234164386987686,
+          0.03388349339365959,
+          0.010954281315207481,
+          0.008651207201182842
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9499506950378418,
+          "bbox": [
+            0.1477864608168602,
+            0.541666679084301,
+            0.1510416716337204,
+            0.1675347238779068
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6596906185150146,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_24.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.6755998134613037,
+          0.26858285069465637,
+          0.03182367607951164,
+          0.00780476164072752,
+          0.0015330265741795301
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.011787017807364464,
+          "bbox": [
+            0.3591580092906952,
+            0.5266203582286835,
+            0.6408420205116272,
+            0.2673611044883728
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6755998134613037,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_25.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile"
+        ],
+        "scores": [
+          0.9665353894233704,
+          0.01933019980788231,
+          0.004640011116862297,
+          0.001543046673759818,
+          0.001197280129417777
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.02011321298778057,
+          "bbox": [
+            0.357421875,
+            0.5717592462897301,
+            0.642578125,
+            0.22280092537403107
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9665353894233704,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_26.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9191343188285828,
+          0.05106683820486069,
+          0.010594183579087257,
+          0.006987081840634346,
+          0.0021808408200740814
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01724962703883648,
+          "bbox": [
+            0.3598090410232544,
+            0.5653935372829437,
+            0.6401909589767456,
+            0.2282986044883728
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9191343188285828,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_27.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.8793858289718628,
+          0.06870444118976593,
+          0.01799740456044674,
+          0.0143955759704113,
+          0.003988332115113735
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.04511699452996254,
+          "bbox": [
+            0.359375,
+            0.552951380610466,
+            0.640625,
+            0.24363425374031067
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8793858289718628,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_28.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9763721823692322,
+          0.01442982442677021,
+          0.0017823671223595738,
+          0.0015419755363836884,
+          0.0011572131188586354
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.010662910528481007,
+          "bbox": [
+            0.3543837070465088,
+            0.5850694477558136,
+            0.6456162929534912,
+            0.21151620149612427
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9763721823692322,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_29.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9966443777084351,
+          0.001143342349678278,
+          0.00024154320999514312,
+          0.0002332236763322726,
+          0.00015681926743127406
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01758265309035778,
+          "bbox": [
+            0.3504774570465088,
+            0.5870948806405067,
+            0.6495225429534912,
+            0.20804397761821747
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9966443777084351,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_3.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "9fb844bd-26d1-49f1-a829-0025a48d3bdb;insecta;;;;;insect"
+        ],
+        "scores": [
+          0.7240634560585022,
+          0.2610534131526947,
+          0.0032008427660912275,
+          0.0008726856904104352,
+          0.0005264654755592346
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7272642988245934,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_30.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.7231374979019165,
+          0.1325337439775467,
+          0.09618817269802094,
+          0.010823780670762062,
+          0.008633141405880451
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.8751281639561057,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_31.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.9251419305801392,
+          0.042791757732629776,
+          0.011506260372698307,
+          0.00451445858925581,
+          0.002879625651985407
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01022353582084179,
+          "bbox": [
+            0.3550347089767456,
+            0.5870948806405067,
+            0.6449652910232544,
+            0.21469907462596893
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9251419305801392,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_32.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.994102418422699,
+          0.002529073739424348,
+          0.000449694343842566,
+          0.00042401321115903556,
+          0.00027207547100260854
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.025594517588615417,
+          "bbox": [
+            0.3539496660232544,
+            0.5830439776182175,
+            0.6460503339767456,
+            0.21122685074806213
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.994102418422699,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_33.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9910479187965393,
+          0.003969262354075909,
+          0.0012534973211586475,
+          0.0008887190488167107,
+          0.0005342662916518748
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.014049696736037731,
+          "bbox": [
+            0.3515625,
+            0.582465298473835,
+            0.6484375,
+            0.22193287312984467
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9910479187965393,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_34.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.5660920739173889,
+          0.3015589416027069,
+          0.08339481055736542,
+          0.007271944545209408,
+          0.006402415223419666
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.6631612442433834,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_35.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "6acc4360-3b6c-4b7e-9d77-3c266e17255b;aves;passeriformes;turdidae;catharus;ustulatus;russet-backed thrush"
+        ],
+        "scores": [
+          0.9687414169311523,
+          0.004896137863397598,
+          0.002594562480226159,
+          0.0024378448724746704,
+          0.0017112743807956576
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9407817125320435,
+          "bbox": [
+            0.0835503563284874,
+            0.4212963208556175,
+            0.1282552033662796,
+            0.17592592537403107
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.0400780588388443,
+          "bbox": [
+            0.3626302182674408,
+            0.5711805522441864,
+            0.6373698115348816,
+            0.2248263955116272
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9687414169311523,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_36.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.6608426570892334,
+          0.18669776618480682,
+          0.1001470610499382,
+          0.009146747179329395,
+          0.008642458356916904
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7787789236754179,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_37.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.64727783203125,
+          0.2226652204990387,
+          0.08014785498380661,
+          0.011157617904245853,
+          0.006640059407800436
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7452233643271029,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_38.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9145777821540833,
+          0.03454452008008957,
+          0.028460294008255005,
+          0.009134658612310886,
+          0.005118702072650194
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01879119500517845,
+          "bbox": [
+            0.3628472089767456,
+            0.5726272910833359,
+            0.6371527910232544,
+            0.22685185074806213
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9145777821540833,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_39.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9786968231201172,
+          0.007671482861042023,
+          0.005778268910944462,
+          0.002429031766951084,
+          0.0010625907452777028
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.024110833182930946,
+          "bbox": [
+            0.3641493320465088,
+            0.5732060298323631,
+            0.6358506679534912,
+            0.22945602238178253
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9786968231201172,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_4.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+          "7a0f448a-d190-4087-a273-8dddfb0edbfc;mammalia;diprotodontia;potoroidae;aepyprymnus;rufescens;rufous bettong"
+        ],
+        "scores": [
+          0.538097620010376,
+          0.1089332327246666,
+          0.10251102596521378,
+          0.07771109789609909,
+          0.0352807380259037
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.871249794960022,
+          "bbox": [
+            0.5815972089767456,
+            0.45283564180135727,
+            0.255859375,
+            0.18258102238178253
+          ]
+        }
+      ],
+      "prediction": "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+      "prediction_score": 0.7183197438716888,
+      "prediction_source": "classifier+rollup_to_genus",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_40.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9869933128356934,
+          0.004603916313499212,
+          0.002626544563099742,
+          0.0015150639228522778,
+          0.0009088350925594568
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.04881895333528519,
+          "bbox": [
+            0.3619791567325592,
+            0.5700231194496155,
+            0.6380208134651184,
+            0.234375
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9869933128356934,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_41.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "6acc4360-3b6c-4b7e-9d77-3c266e17255b;aves;passeriformes;turdidae;catharus;ustulatus;russet-backed thrush",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin",
+          "8323eadd-b3fe-488c-b514-30097600da5b;aves;passeriformes;grallariidae;grallaria;quitensis;western tawny antpitta"
+        ],
+        "scores": [
+          0.8286938667297363,
+          0.013138231821358204,
+          0.01211934257298708,
+          0.006251093000173569,
+          0.006069581490010023
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.944585919380188,
+          "bbox": [
+            0.3250868022441864,
+            0.456597238779068,
+            0.2677951455116272,
+            0.37008100748062134
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8286938667297363,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_42.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "93f21742-bd18-478d-9ecc-e135101f89c8;aves;galliformes;phasianidae;polyplectron;bicalcaratum;grey peacock-pheasant",
+          "4eae4c62-e867-465a-a1f3-536791efa6c4;aves;galliformes;phasianidae;;;phasianidae family"
+        ],
+        "scores": [
+          0.972292959690094,
+          0.0023570633493363857,
+          0.0016792530659586191,
+          0.0015641063218936324,
+          0.0011669467203319073
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.712679922580719,
+          "bbox": [
+            0.0944010466337204,
+            0.41116898879408836,
+            0.1299913227558136,
+            0.07928241044282913
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.972292959690094,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_43.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "84f9a83d-224c-4c68-b23a-d42064dcc73a;aves;passeriformes;turdidae;turdus;merula;common blackbird",
+          "f7c1f421-53c8-4ff1-a53f-981ff4509709;aves;galliformes;phasianidae;dendragapus;fuliginosus;sooty grouse",
+          "43e731f6-47cc-4ae0-9909-82ff3de1f1d1;aves;accipitriformes;accipitridae;buteo;buteo;eurasian buzzard",
+          "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+        ],
+        "scores": [
+          0.6716879606246948,
+          0.05818831920623779,
+          0.03711985796689987,
+          0.013278520666062832,
+          0.011734290979802608
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.31894588470458984,
+          "bbox": [
+            0.9181857630610466,
+            0.5969328582286835,
+            0.0815972238779068,
+            0.1345486044883728
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6716879606246948,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_44.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "9ecfddd3-a5a8-443f-b12a-9a06f140ebbb;aves;cuculiformes;cuculidae;crotophaga;major;greater ani",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "f4932b4a-70ac-410d-853b-7e4b119068d7;aves;galliformes;cracidae;penelope;obscura;dusky-legged guan",
+          "e1e4b4c7-c587-4d21-a28e-832feda37256;aves;passeriformes;icteridae;;;icteridae family"
+        ],
+        "scores": [
+          0.4602164328098297,
+          0.05079963058233261,
+          0.022318236529827118,
+          0.019564112648367882,
+          0.01856335625052452
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8124306201934814,
+          "bbox": [
+            0.8229166716337204,
+            0.5147569477558136,
+            0.1534288227558136,
+            0.11660879850387573
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.8124306201934814,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_45.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family"
+        ],
+        "scores": [
+          0.6923739314079285,
+          0.1279815435409546,
+          0.01724882237613201,
+          0.012081803753972054,
+          0.01182885468006134
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.690085232257843,
+          "bbox": [
+            0.641276054084301,
+            0.39959490671753883,
+            0.0933159738779068,
+            0.09085648506879807
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6923739314079285,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_46.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9885886907577515,
+          0.0035500801168382168,
+          0.0016042873030528426,
+          0.0011735571315512061,
+          0.000785502081271261
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.018423030152916908,
+          "bbox": [
+            0.365234375,
+            0.5691551044583321,
+            0.634765625,
+            0.22858797013759613
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9885886907577515,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_47.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9880350232124329,
+          0.0036762310191988945,
+          0.0025566709227859974,
+          0.0013814695412293077,
+          0.0009059621952474117
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.0319443941116333,
+          "bbox": [
+            0.3680555820465088,
+            0.589409701526165,
+            0.6319444179534912,
+            0.20543982088565826
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9880350232124329,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_48.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "97969dd0-97f3-4562-af1c-ac1bea43badc;aves;passeriformes;fringillidae;haemorhous;mexicanus;house finch"
+        ],
+        "scores": [
+          0.9781075119972229,
+          0.006682006176561117,
+          0.001997287617996335,
+          0.0018806348089128733,
+          0.0012864326126873493
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9476325511932373,
+          "bbox": [
+            0.1822916679084301,
+            0.40653934329748154,
+            0.0915798619389534,
+            0.13744212687015533
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9781075119972229,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_49.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9714568853378296,
+          0.008269712328910828,
+          0.007783061359077692,
+          0.005331224761903286,
+          0.002305966801941395
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.03341709077358246,
+          "bbox": [
+            0.3667534589767456,
+            0.5671296566724777,
+            0.6332465410232544,
+            0.2335069477558136
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9714568853378296,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_5.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot"
+        ],
+        "scores": [
+          0.23620223999023438,
+          0.10705306380987167,
+          0.06587229669094086,
+          0.046682510524988174,
+          0.04338078945875168
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8361150026321411,
+          "bbox": [
+            0.10091143846511841,
+            0.4149305671453476,
+            0.3500434160232544,
+            0.13425925374031067
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.8361150026321411,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_50.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.981856644153595,
+          0.0038450255524367094,
+          0.0037365739699453115,
+          0.0036384554114192724,
+          0.0026920372620224953
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.03704248368740082,
+          "bbox": [
+            0.3782552182674408,
+            0.5795717760920525,
+            0.6217448115348816,
+            0.21556712687015533
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.981856644153595,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_51.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "d68ed01f-2668-428c-9358-1dc576891256;aves;cuculiformes;cuculidae;centropus;phasianinus;pheasant coucal"
+        ],
+        "scores": [
+          0.8544381260871887,
+          0.09512407332658768,
+          0.015564896166324615,
+          0.0037036973517388105,
+          0.0022275387309491634
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8544381260871887,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_52.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9945574998855591,
+          0.0011950742918998003,
+          0.0009899409487843513,
+          0.0006940349703654647,
+          0.00048258801689371467
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.07362169027328491,
+          "bbox": [
+            0.3650173842906952,
+            0.5677083283662796,
+            0.6349826455116272,
+            0.2274305522441864
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9945574998855591,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_53.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family",
+          "fd02a22d-cff0-40e3-98f5-8a7f77382463;aves;passeriformes;passerellidae;zonotrichia;leucophrys;white-crowned sparrow",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow"
+        ],
+        "scores": [
+          0.9594457745552063,
+          0.009817923419177532,
+          0.004532511346042156,
+          0.0038964312989264727,
+          0.002016001148149371
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8137301802635193,
+          "bbox": [
+            0.718098983168602,
+            0.4192708432674408,
+            0.1026475727558136,
+            0.10214120149612427
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9594457745552063,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_54.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9924710988998413,
+          0.001876034657470882,
+          0.0016981307417154312,
+          0.0013248402392491698,
+          0.0010267989709973335
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.02451004832983017,
+          "bbox": [
+            0.3389756679534912,
+            0.5708912089467049,
+            0.6610243320465088,
+            0.22077547013759613
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9924710988998413,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_55.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.9627980589866638,
+          0.013531667180359364,
+          0.008016292005777359,
+          0.006394479889422655,
+          0.0046255923807621
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.018211273476481438,
+          "bbox": [
+            0.3454861342906952,
+            0.5853588134050369,
+            0.6545138955116272,
+            0.2118055522441864
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9627980589866638,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_56.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana"
+        ],
+        "scores": [
+          0.9719809889793396,
+          0.010029382072389126,
+          0.004667766857892275,
+          0.0020048138685524464,
+          0.0009561979095451534
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9719809889793396,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_57.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "10305f48-5dce-47ec-a3fe-17d9b96fddfa;aves;passeriformes;turdidae;turdus;;turdus species",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+          "d5f41e40-03b5-466b-a269-d0dddab44cb5;aves;passeriformes;turdidae;turdus;philomelos;song thrush"
+        ],
+        "scores": [
+          0.8299075365066528,
+          0.042155828326940536,
+          0.010445116087794304,
+          0.006687481887638569,
+          0.006084314081817865
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.85748291015625,
+          "bbox": [
+            0.7675781510770321,
+            0.4444444179534912,
+            0.0622829869389534,
+            0.18865740299224854
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8299075365066528,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_58.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird"
+        ],
+        "scores": [
+          0.9768500328063965,
+          0.006834789644926786,
+          0.00222219992429018,
+          0.0012200463097542524,
+          0.0011468518059700727
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9768500328063965,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_59.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "97969dd0-97f3-4562-af1c-ac1bea43badc;aves;passeriformes;fringillidae;haemorhous;mexicanus;house finch",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "9805e578-061a-49c0-8abc-ea135381c162;aves;passeriformes;corvidae;corvus;corax;common raven",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family"
+        ],
+        "scores": [
+          0.9916525483131409,
+          0.002515234285965562,
+          0.00045516304089687765,
+          0.0004540613736025989,
+          0.000395369715988636
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8784762620925903,
+          "bbox": [
+            0.039930559694767,
+            0.4597800709307194,
+            0.1540798544883728,
+            0.1232638880610466
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.9916525483131409,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_6.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "9880b662-dc21-453b-aa2f-dd97338f623b;mammalia;rodentia;muridae;;;muridae family",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+          "22f3d415-b3bc-4e37-a81a-504a69897974;mammalia;didelphimorphia;didelphidae;;;possum family",
+          "00049ff0-2ffa-4d82-8cf3-c861fbbfa9d5;mammalia;rodentia;muridae;rattus;;rattus species"
+        ],
+        "scores": [
+          0.5217971801757812,
+          0.07204745709896088,
+          0.05365879088640213,
+          0.04782326892018318,
+          0.034519512206315994
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9400542378425598,
+          "bbox": [
+            0.0,
+            0.5509259253740311,
+            0.158203125,
+            0.34230324625968933
+          ]
+        }
+      ],
+      "prediction": "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+      "prediction_score": 0.7298462092876434,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_60.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "23140944-2bd7-46ce-819a-c26508c53d62;aves;passeriformes;turdidae;turdus;migratorius;american robin",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family"
+        ],
+        "scores": [
+          0.6733025312423706,
+          0.25215375423431396,
+          0.018719656392931938,
+          0.0032455252949148417,
+          0.0030999616719782352
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.4067383110523224,
+          "bbox": [
+            0.1423611156642437,
+            0.41116899624466896,
+            0.0740017369389534,
+            0.08478008955717087
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.6733025312423706,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_61.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "05a9817a-60ad-460f-8448-018a38090858;aves;passeriformes;thamnophilidae;taraba;major;great antshrike",
+          "d668b142-a012-4c44-b837-7b4e92a89119;aves;passeriformes;corvidae;cyanocorax;yncas;green jay",
+          "93f110f1-7710-4a3f-8437-071358ff8563;aves;passeriformes;pycnonotidae;alophoixus;frater;palawan bulbul",
+          "3450b781-acf9-4bdf-af8f-c555034e0271;aves;passeriformes;acanthizidae;sericornis;citreogularis;yellow-throated scrubwren"
+        ],
+        "scores": [
+          0.4154514968395233,
+          0.0434480644762516,
+          0.033563848584890366,
+          0.021959930658340454,
+          0.01657792367041111
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.899259626865387,
+          "bbox": [
+            0.7352430485188961,
+            0.5370370447635651,
+            0.0622829869389534,
+            0.14120370149612427
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.899259626865387,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_62.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "1110460b-7f99-405b-a9b0-65a09ecccca1;aves;pelecaniformes;ardeidae;tigrisoma;lineatum;rufescent tiger-heron",
+          "96fe1a07-7ef1-4a2f-99e1-ec2c9a78b532;aves;pelecaniformes;ardeidae;ardea;herodias;great blue heron",
+          "8ed8aff1-cd22-47c4-8f9a-80ed276d88e9;aves;pelecaniformes;ardeidae;butorides;virescens;green heron",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "07c593cb-bfa3-4cdd-9cdf-403f0c3e62ed;aves;pelecaniformes;ardeidae;;;ardeidae family"
+        ],
+        "scores": [
+          0.4541163444519043,
+          0.24152807891368866,
+          0.07124480605125427,
+          0.05098726227879524,
+          0.02205461636185646
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9104031324386597,
+          "bbox": [
+            0.00021702051162719727,
+            0.31539349257946014,
+            0.2925347089767456,
+            0.43113425374031067
+          ]
+        }
+      ],
+      "prediction": "07c593cb-bfa3-4cdd-9cdf-403f0c3e62ed;aves;pelecaniformes;ardeidae;;;ardeidae family",
+      "prediction_score": 0.7889438457787037,
+      "prediction_source": "classifier+rollup_to_family",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_63.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "70fbdb0f-44fd-4b67-b814-510baca9e9a0;aves;passeriformes;ptilonorhynchidae;ptilonorhynchus;violaceus;satin bowerbird",
+          "897e6314-7c46-405b-b614-06e5aef839a4;aves;passeriformes;icteridae;quiscalus;quiscula;common grackle",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "d5636405-819a-495a-b2d1-0f802d52c1bd;aves;passeriformes;mimidae;dumetella;carolinensis;grey catbird"
+        ],
+        "scores": [
+          0.40615135431289673,
+          0.12600113451480865,
+          0.06433474272489548,
+          0.04626026749610901,
+          0.04278701916337013
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9304081797599792,
+          "bbox": [
+            0.4826388657093048,
+            0.6880786865949631,
+            0.5115017294883728,
+            0.26244214177131653
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.68553451821208,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_64.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "1110460b-7f99-405b-a9b0-65a09ecccca1;aves;pelecaniformes;ardeidae;tigrisoma;lineatum;rufescent tiger-heron",
+          "96fe1a07-7ef1-4a2f-99e1-ec2c9a78b532;aves;pelecaniformes;ardeidae;ardea;herodias;great blue heron",
+          "29f4ab9b-df46-4d87-9923-a9869fa5d503;aves;pelecaniformes;ardeidae;botaurus;lentiginosus;american bittern",
+          "8ed8aff1-cd22-47c4-8f9a-80ed276d88e9;aves;pelecaniformes;ardeidae;butorides;virescens;green heron"
+        ],
+        "scores": [
+          0.3709857165813446,
+          0.2023191601037979,
+          0.10010803490877151,
+          0.09238673746585846,
+          0.08498367667198181
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9695726037025452,
+          "bbox": [
+            0.0,
+            0.35445600748062134,
+            0.2686631977558136,
+            0.29918980598449707
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8507833257317543,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_65.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "1110460b-7f99-405b-a9b0-65a09ecccca1;aves;pelecaniformes;ardeidae;tigrisoma;lineatum;rufescent tiger-heron",
+          "8ed8aff1-cd22-47c4-8f9a-80ed276d88e9;aves;pelecaniformes;ardeidae;butorides;virescens;green heron",
+          "29f4ab9b-df46-4d87-9923-a9869fa5d503;aves;pelecaniformes;ardeidae;botaurus;lentiginosus;american bittern",
+          "96fe1a07-7ef1-4a2f-99e1-ec2c9a78b532;aves;pelecaniformes;ardeidae;ardea;herodias;great blue heron",
+          "e3561212-8e0b-4cc6-8834-6c4613691ae4;aves;eurypygiformes;eurypygidae;eurypyga;helias;sunbittern"
+        ],
+        "scores": [
+          0.3360143303871155,
+          0.224064901471138,
+          0.10240291804075241,
+          0.06294206529855728,
+          0.06108083948493004
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9607513546943665,
+          "bbox": [
+            0.7228732407093048,
+            0.35879629850387573,
+            0.2771267294883728,
+            0.2890625
+          ]
+        }
+      ],
+      "prediction": "07c593cb-bfa3-4cdd-9cdf-403f0c3e62ed;aves;pelecaniformes;ardeidae;;;ardeidae family",
+      "prediction_score": 0.7254242151975632,
+      "prediction_source": "classifier+rollup_to_family",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_66.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "d5636405-819a-495a-b2d1-0f802d52c1bd;aves;passeriformes;mimidae;dumetella;carolinensis;grey catbird",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "70fbdb0f-44fd-4b67-b814-510baca9e9a0;aves;passeriformes;ptilonorhynchidae;ptilonorhynchus;violaceus;satin bowerbird"
+        ],
+        "scores": [
+          0.8226334452629089,
+          0.010200273245573044,
+          0.006797896232455969,
+          0.006772243417799473,
+          0.004531580489128828
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9492473006248474,
+          "bbox": [
+            0.0952690988779068,
+            0.37008102983236313,
+            0.2575954794883728,
+            0.20109952986240387
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8226334452629089,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_67.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "85872b21-8d35-4301-b76b-98e6383e7c87;mammalia;cingulata;dasypodidae;dasypus;;dasypus species",
+          "8bc77c4f-5437-486e-9d9b-cb37f52e6af3;mammalia;rodentia;dasyproctidae;dasyprocta;leporina;red-rumped agouti",
+          "32c0147f-1967-4644-b107-8133ae1f020a;mammalia;rodentia;cuniculidae;cuniculus;paca;spotted paca",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "4e6eb99a-baf0-4235-a7bc-1dd7b741b7c3;mammalia;rodentia;dasyproctidae;dasyprocta;;dasyprocta species"
+        ],
+        "scores": [
+          0.20195530354976654,
+          0.1791747659444809,
+          0.12362224608659744,
+          0.058349285274744034,
+          0.049022141844034195
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.6685210466384888,
+          "bbox": [
+            0.888888880610466,
+            0.5049189627170563,
+            0.1104600727558136,
+            0.1267361044883728
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.1174153983592987,
+          "bbox": [
+            0.8702257052063942,
+            0.3958333358168602,
+            0.1295572966337204,
+            0.08275462687015533
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.6685210466384888,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_68.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.6866568326950073,
+          0.29311779141426086,
+          0.0042749978601932526,
+          0.001010136678814888,
+          0.0009409041376784444
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6866568326950073,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_69.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+          "cb1c6f8c-0ba5-494f-8d39-e213b3800a85;mammalia;peramelemorphia;;;;bandicoot",
+          "bbe2362c-2d06-458f-96aa-03ad6bd24cc5;mammalia;peramelemorphia;peramelidae;isoodon;obesulus;southern brown bandicoot",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal"
+        ],
+        "scores": [
+          0.36517488956451416,
+          0.26123830676078796,
+          0.06507624685764313,
+          0.037395868450403214,
+          0.03506317362189293
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.7388482093811035,
+          "bbox": [
+            0.727864608168602,
+            0.39525462314486504,
+            0.1417100727558136,
+            0.1197916641831398
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.013568760827183723,
+          "bbox": [
+            0.0985243022441864,
+            0.9033564664423466,
+            0.0692274272441864,
+            0.0529513880610466
+          ]
+        }
+      ],
+      "prediction": "26991a46-2f9c-4e82-a61c-7d6a5b67d82b;mammalia;peramelemorphia;peramelidae;;;peramelidae family",
+      "prediction_score": 0.6638090647757053,
+      "prediction_source": "classifier+rollup_to_family",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_7.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+          "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat",
+          "73dfcd72-4b80-42be-8db3-18cbd35a957f;mammalia;rodentia;dasyproctidae;myoprocta;acouchy;red acouchi",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "5df7a745-123f-4e49-bc67-540377e42fe3;mammalia;rodentia;hystricidae;trichys;fasciculata;long-tailed porcupine"
+        ],
+        "scores": [
+          0.24934807419776917,
+          0.12262396514415741,
+          0.06635383516550064,
+          0.062095869332551956,
+          0.05810301750898361
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.856734037399292,
+          "bbox": [
+            0.0036892369389533997,
+            0.39872685074806213,
+            0.1634114533662796,
+            0.13396990299224854
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.856734037399292,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_70.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+          "1755723e-73f4-44f1-b945-390378259c46;mammalia;diprotodontia;potoroidae;;;potoroidae family",
+          "383d3e81-51db-4d5d-aac2-404d1efcf11f;mammalia;rodentia;echimyidae;thrichomys;;thrichomys species"
+        ],
+        "scores": [
+          0.20825597643852234,
+          0.13756822049617767,
+          0.1050657406449318,
+          0.07924261689186096,
+          0.0618479885160923
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.7810153961181641,
+          "bbox": [
+            0.437717005610466,
+            0.43200232461094856,
+            0.3487413227558136,
+            0.1145833358168602
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.012867383658885956,
+          "bbox": [
+            0.00021701306104660034,
+            0.892939817160368,
+            0.1547309011220932,
+            0.06452546268701553
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.7810153961181641,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_71.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+          "26991a46-2f9c-4e82-a61c-7d6a5b67d82b;mammalia;peramelemorphia;peramelidae;;;peramelidae family",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "cb1c6f8c-0ba5-494f-8d39-e213b3800a85;mammalia;peramelemorphia;;;;bandicoot"
+        ],
+        "scores": [
+          0.5307026505470276,
+          0.18470968306064606,
+          0.04779379069805145,
+          0.03852812945842743,
+          0.035342391580343246
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9154080748558044,
+          "bbox": [
+            0.721137136220932,
+            0.4898727163672447,
+            0.2756076455116272,
+            0.1458333283662796
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.059155307710170746,
+          "bbox": [
+            0.0,
+            0.8923611156642437,
+            0.1549479216337204,
+            0.06452546268701553
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.04966653883457184,
+          "bbox": [
+            0.0,
+            0.7936921119689941,
+            0.1560329794883728,
+            0.16290509700775146
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.018221601843833923,
+          "bbox": [
+            0.0896267332136631,
+            0.8926504403352737,
+            0.0657552108168602,
+            0.0633680522441864
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.010756075382232666,
+          "bbox": [
+            0.0846354141831398,
+            0.7957175895571709,
+            0.0703125,
+            0.1597222238779068
+          ]
+        }
+      ],
+      "prediction": "26991a46-2f9c-4e82-a61c-7d6a5b67d82b;mammalia;peramelemorphia;peramelidae;;;peramelidae family",
+      "prediction_score": 0.7632061243057251,
+      "prediction_source": "classifier+rollup_to_family",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_72.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "825e43b6-fd13-40d0-a16a-69a8cb134583;mammalia;diprotodontia;macropodidae;petrogale;penicillata;brush-tailed rock wallaby",
+          "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+          "b867c6b1-6391-42a2-87d9-094de260a70a;mammalia;diprotodontia;macropodidae;macropus;eugenii;tammar wallaby"
+        ],
+        "scores": [
+          0.37306511402130127,
+          0.18137069046497345,
+          0.09915057569742203,
+          0.09049709141254425,
+          0.05346931144595146
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9232257604598999,
+          "bbox": [
+            0.6807725802063942,
+            0.5188078880310059,
+            0.1822916716337204,
+            0.3125
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.05371055379509926,
+          "bbox": [
+            0.0,
+            0.41984955221414566,
+            0.1421440988779068,
+            0.1371527761220932
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01700543612241745,
+          "bbox": [
+            0.00021701306104660034,
+            0.38599536567926407,
+            0.0796440988779068,
+            0.13773147761821747
+          ]
+        }
+      ],
+      "prediction": "a2393bee-bf14-473f-8eab-d9ca21714026;mammalia;diprotodontia;;;;diprotodontia order",
+      "prediction_score": 0.7975527830421925,
+      "prediction_source": "classifier+rollup_to_order",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_73.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat",
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "7a0f448a-d190-4087-a273-8dddfb0edbfc;mammalia;diprotodontia;potoroidae;aepyprymnus;rufescens;rufous bettong"
+        ],
+        "scores": [
+          0.40566760301589966,
+          0.13362127542495728,
+          0.057105280458927155,
+          0.037905726581811905,
+          0.033545784652233124
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9359057545661926,
+          "bbox": [
+            0.00021702051162719727,
+            0.39293980598449707,
+            0.3407118022441864,
+            0.1328125
+          ]
+        }
+      ],
+      "prediction": "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+      "prediction_score": 0.6678456701338291,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_74.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+          "9880b662-dc21-453b-aa2f-dd97338f623b;mammalia;rodentia;muridae;;;muridae family",
+          "3d80f1d6-b1df-4966-9ff4-94053c7a902a;mammalia;carnivora;canidae;canis;familiaris;domestic dog",
+          "9212982e-8a58-4775-a6ac-e9a43110d8f5;mammalia;carnivora;felidae;felis;catus;domestic cat"
+        ],
+        "scores": [
+          0.24460501968860626,
+          0.1402399092912674,
+          0.1292196363210678,
+          0.060088515281677246,
+          0.05817580968141556
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.3810930848121643,
+          "bbox": [
+            0.0,
+            0.37876155972480774,
+            0.09765625,
+            0.1171875
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.3382143974304199,
+          "bbox": [
+            0.0,
+            0.33969907462596893,
+            0.20703125,
+            0.1553819477558136
+          ]
+        }
+      ],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.24460501968860626,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_75.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "5a565886-156e-4b19-a017-6a5bbae4df0f;mammalia;lagomorpha;leporidae;oryctolagus;cuniculus;european rabbit",
+          "e88777aa-294e-47ec-8c8a-d4081c0abaff;mammalia;dasyuromorphia;dasyuridae;dasyurus;hallucatus;northern quoll",
+          "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat"
+        ],
+        "scores": [
+          0.753196120262146,
+          0.05582093819975853,
+          0.03781833499670029,
+          0.012663427740335464,
+          0.00905218068510294
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.6604411602020264,
+          "bbox": [
+            0.2975260317325592,
+            0.8124999776482582,
+            0.2458767294883728,
+            0.1432291716337204
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.03313247114419937,
+          "bbox": [
+            0.025824636220932007,
+            0.8064236342906952,
+            0.5138888955116272,
+            0.14901620149612427
+          ]
+        }
+      ],
+      "prediction": "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+      "prediction_score": 0.753196120262146,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_76.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+          "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+          "7a0f448a-d190-4087-a273-8dddfb0edbfc;mammalia;diprotodontia;potoroidae;aepyprymnus;rufescens;rufous bettong",
+          "1755723e-73f4-44f1-b945-390378259c46;mammalia;diprotodontia;potoroidae;;;potoroidae family"
+        ],
+        "scores": [
+          0.4761362671852112,
+          0.19812116026878357,
+          0.1095738559961319,
+          0.04892188310623169,
+          0.018084989860653877
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8432728052139282,
+          "bbox": [
+            0.286892369389534,
+            0.43113426119089127,
+            0.3626302182674408,
+            0.13483797013759613
+          ]
+        }
+      ],
+      "prediction": "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+      "prediction_score": 0.7838312834501266,
+      "prediction_source": "classifier+rollup_to_genus",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_77.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "a6ae199d-c8fa-4f5d-bf4c-844d7b26320d;aves;passeriformes;pellorneidae;trichastoma;cinereiceps;ashy-headed babbler"
+        ],
+        "scores": [
+          0.6345880031585693,
+          0.0627657026052475,
+          0.05255162715911865,
+          0.03424667939543724,
+          0.01467070635408163
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8691625595092773,
+          "bbox": [
+            0.6438802294433117,
+            0.5694444179534912,
+            0.0631510391831398,
+            0.1484375
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7988227186724544,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_78.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "9f87fb6d-be1d-43b4-a144-3d4750bdf6de;aves;passeriformes;cardinalidae;cardinalis;cardinalis;northern cardinal",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "c398330f-78a4-4be5-ac4b-8e4c80dc1a16;aves;passeriformes;troglodytidae;salpinctes;obsoletus;rock wren",
+          "0f5a75b9-fd03-43c7-8b29-706b3904bcca;aves;passeriformes;muscicapidae;erithacus;rubecula;european robin"
+        ],
+        "scores": [
+          0.6160693764686584,
+          0.04558681324124336,
+          0.03750963136553764,
+          0.018335629254579544,
+          0.015057053416967392
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9156440496444702,
+          "bbox": [
+            0.7871094010770321,
+            0.5451388955116272,
+            0.0661892369389534,
+            0.12615740299224854
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7325585037469864,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_79.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9569358825683594,
+          0.021820973604917526,
+          0.007998415268957615,
+          0.00264643388800323,
+          0.0022981050424277782
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9569358825683594,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_8.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+          "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+          "ebae8364-48b4-462b-9e2b-b13fb4751a22;mammalia;rodentia;cricetidae;neotoma;floridana;eastern woodrat"
+        ],
+        "scores": [
+          0.46633902192115784,
+          0.06836293637752533,
+          0.04213915765285492,
+          0.041987095028162,
+          0.040472134947776794
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9341961145401001,
+          "bbox": [
+            0.009114578366279602,
+            0.39293980598449707,
+            0.3322482705116272,
+            0.13165509700775146
+          ]
+        }
+      ],
+      "prediction": "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+      "prediction_score": 0.6593003459274769,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_80.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "01c343f4-7aca-40e9-9006-1367b2ac68cd;aves;passeriformes;passeridae;;;passeridae family",
+          "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family"
+        ],
+        "scores": [
+          0.8151783347129822,
+          0.07466480880975723,
+          0.015008838847279549,
+          0.006958416663110256,
+          0.006465546321123838
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8431013822555542,
+          "bbox": [
+            0.6380208134651184,
+            0.45023147016763687,
+            0.068359375,
+            0.1354166716337204
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.8151783347129822,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_81.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "d839f9ec-e1c3-4fe0-8a95-c02b593dd662;aves;passeriformes;menuridae;menura;novaehollandiae;superb lyrebird",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9975007176399231,
+          0.0009518689475953579,
+          0.0004688313347287476,
+          9.044237231137231e-05,
+          8.802861702861264e-05
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9975007176399231,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_82.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "e1e4b4c7-c587-4d21-a28e-832feda37256;aves;passeriformes;icteridae;;;icteridae family",
+          "897e6314-7c46-405b-b614-06e5aef839a4;aves;passeriformes;icteridae;quiscalus;quiscula;common grackle",
+          "ad5052c3-b46d-4d12-ba8a-b11a10e487f9;aves;suliformes;anhingidae;anhinga;anhinga;anhinga"
+        ],
+        "scores": [
+          0.7371749877929688,
+          0.045242249965667725,
+          0.012759702280163765,
+          0.007475472521036863,
+          0.0063783242367208
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8118383288383484,
+          "bbox": [
+            0.2510850727558136,
+            0.36834490299224854,
+            0.1755642294883728,
+            0.20254629850387573
+          ]
+        }
+      ],
+      "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+      "prediction_score": 0.7371749877929688,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_83.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.7581124901771545,
+          0.19121217727661133,
+          0.027231262996792793,
+          0.003570266766473651,
+          0.0023245378397405148
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7581124901771545,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_84.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "a3a6cd59-c9a5-4900-82ac-1dd804e281af;aves;passeriformes;monarchidae;grallina;cyanoleuca;magpie-lark",
+          "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+          "b7011933-4542-4b5d-8a99-bf195744b5f2;aves;passeriformes;corvidae;;;corvidae family"
+        ],
+        "scores": [
+          0.9626411199569702,
+          0.0075363353826105595,
+          0.0010814870474860072,
+          0.0010026139207184315,
+          0.0008262293413281441
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.0330742672085762,
+          "bbox": [
+            0.362847238779068,
+            0.8524305820465088,
+            0.3283420205116272,
+            0.1015625
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9626411199569702,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_85.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "f0a9f1ed-a1be-4faa-a68c-a370560ac4eb;aves;anseriformes;anatidae;;;anatidae family",
+          "6de041e9-509c-481b-9f7f-4c5e8c1d86bd;aves;anseriformes;anatidae;mareca;americana;american wigeon",
+          "d792dde9-0047-4b8e-9643-0e6e05d89f05;aves;anseriformes;anatidae;aix;sponsa;wood duck"
+        ],
+        "scores": [
+          0.9132906794548035,
+          0.06514181196689606,
+          0.013853615149855614,
+          0.0021008308976888657,
+          0.001571426633745432
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9161328673362732,
+          "bbox": [
+            0.648220494389534,
+            0.234375,
+            0.3114149272441864,
+            0.44473379850387573
+          ]
+        }
+      ],
+      "prediction": "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+      "prediction_score": 0.9132906794548035,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_86.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor",
+          "265cec39-e155-4897-9e7f-06f62fc22af1;reptilia;squamata;iguanidae;iguana;iguana;common green iguana",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile"
+        ],
+        "scores": [
+          0.9614927768707275,
+          0.01789482682943344,
+          0.009427303448319435,
+          0.0018100645393133163,
+          0.001124324044212699
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.011016461998224258,
+          "bbox": [
+            0.452039897441864,
+            0.5523726791143417,
+            0.5477430820465088,
+            0.25925925374031067
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9614927768707275,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_87.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8275779485702515,
+          0.08088864386081696,
+          0.06884066760540009,
+          0.009656463749706745,
+          0.003791231894865632
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8275779485702515,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_88.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8792644143104553,
+          0.09817460924386978,
+          0.01432749442756176,
+          0.001523118931800127,
+          0.0012687090784311295
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8792644143104553,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_89.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+          "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+          "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+        ],
+        "scores": [
+          0.9927296042442322,
+          0.0020110453478991985,
+          0.001592313521541655,
+          0.00034842698369175196,
+          0.00020591795328073204
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.051003988832235336,
+          "bbox": [
+            0.0,
+            0.7170138880610466,
+            0.099609375,
+            0.23900462687015533
+          ]
+        },
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.018221843987703323,
+          "bbox": [
+            0.4225260466337204,
+            0.8174189850687981,
+            0.2745225727558136,
+            0.13859952986240387
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9927296042442322,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_9.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+          "383d3e81-51db-4d5d-aac2-404d1efcf11f;mammalia;rodentia;echimyidae;thrichomys;;thrichomys species",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo"
+        ],
+        "scores": [
+          0.13379988074302673,
+          0.10926016420125961,
+          0.05215907096862793,
+          0.047053996473550797,
+          0.045746300369501114
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9021443724632263,
+          "bbox": [
+            0.001953125,
+            0.40740739554166794,
+            0.3780381977558136,
+            0.12731482088565826
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9021443724632263,
+      "prediction_source": "detector",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_90.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+          "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer"
+        ],
+        "scores": [
+          0.9995434880256653,
+          0.00010016264423029497,
+          7.933702727314085e-05,
+          4.904808884020895e-05,
+          3.8172111089807004e-05
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.01106279343366623,
+          "bbox": [
+            0.0922309011220932,
+            0.38049769774079323,
+            0.1124131977558136,
+            0.09085648506879807
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.9995434880256653,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_91.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.49887749552726746,
+          0.2560332715511322,
+          0.1870323121547699,
+          0.019236264750361443,
+          0.0084859449416399
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.7136320173740387,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_92.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8488942384719849,
+          0.11576156318187714,
+          0.0223440732806921,
+          0.002724267542362213,
+          0.0020037475042045116
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8488942384719849,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_93.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.8394068479537964,
+          0.1111471876502037,
+          0.030663300305604935,
+          0.00294459774158895,
+          0.0023108411114662886
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8394068479537964,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_94.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.5491998791694641,
+          0.39901676774024963,
+          0.027125181630253792,
+          0.007853157818317413,
+          0.0024507709313184023
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.5491998791694641,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_95.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.6158115267753601,
+          0.3368079960346222,
+          0.02942483499646187,
+          0.002625333145260811,
+          0.001909914892166853
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.6158115267753601,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_96.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "23140944-2bd7-46ce-819a-c26508c53d62;aves;passeriformes;turdidae;turdus;migratorius;american robin",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel"
+        ],
+        "scores": [
+          0.8139020204544067,
+          0.1378280520439148,
+          0.011346538551151752,
+          0.003396242391318083,
+          0.002240077592432499
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.05730326846241951,
+          "bbox": [
+            0.0,
+            0.7132523134350777,
+            0.0470920130610466,
+            0.11255787312984467
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.8139020204544067,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_97.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "84f9a83d-224c-4c68-b23a-d42064dcc73a;aves;passeriformes;turdidae;turdus;merula;common blackbird",
+          "23140944-2bd7-46ce-819a-c26508c53d62;aves;passeriformes;turdidae;turdus;migratorius;american robin",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order"
+        ],
+        "scores": [
+          0.8840876221656799,
+          0.05813288688659668,
+          0.004069716203957796,
+          0.003639349713921547,
+          0.0024798440281301737
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.245791956782341,
+          "bbox": [
+            0.0,
+            0.7086226865649223,
+            0.0659722238779068,
+            0.16869212687015533
+          ]
+        }
+      ],
+      "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "prediction_score": 0.8840876221656799,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_98.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+          "8bbc30c0-4655-467b-948a-4a1c9da27147;reptilia;squamata;varanidae;varanus;rosenbergi;heath monitor"
+        ],
+        "scores": [
+          0.738420307636261,
+          0.17884041368961334,
+          0.057740822434425354,
+          0.006388828158378601,
+          0.002537817694246769
+        ]
+      },
+      "detections": [],
+      "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+      "prediction_score": 0.8050877759233117,
+      "prediction_source": "classifier+rollup_to_class",
+      "model_version": "4.0.1a"
+    },
+    {
+      "filepath": "images\\image_99.jpg",
+      "latitude": 41.906782,
+      "longitude": -87.651927,
+      "classifications": {
+        "classes": [
+          "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "f0a9f1ed-a1be-4faa-a68c-a370560ac4eb;aves;anseriformes;anatidae;;;anatidae family",
+          "d792dde9-0047-4b8e-9643-0e6e05d89f05;aves;anseriformes;anatidae;aix;sponsa;wood duck",
+          "6de041e9-509c-481b-9f7f-4c5e8c1d86bd;aves;anseriformes;anatidae;mareca;americana;american wigeon"
+        ],
+        "scores": [
+          0.9227592945098877,
+          0.05186381936073303,
+          0.009770536795258522,
+          0.006070958916097879,
+          0.003678707405924797
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.930205762386322,
+          "bbox": [
+            0.7801649421453476,
+            0.26765047013759613,
+            0.2198350727558136,
+            0.3697916567325592
+          ]
+        }
+      ],
+      "prediction": "3eb4472d-b8da-4bd8-9533-7b9b4e844f6a;aves;anseriformes;anatidae;anas;platyrhynchos;mallard",
+      "prediction_score": 0.9227592945098877,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1a"
+    }
+  ]
+}
