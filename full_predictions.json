@@ -1,0 +1,362 @@
+{
+  "predictions": [
+    {
+      "filepath": "images/image_0.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "10305f48-5dce-47ec-a3fe-17d9b96fddfa;aves;passeriformes;turdidae;turdus;;turdus species",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "fa374299-b42b-4e40-bef6-c9894a8fec9c;aves;passeriformes;pachycephalidae;colluricincla;harmonica;grey shrike-thrush"
+        ],
+        "scores": [
+          0.29409119486808777,
+          0.2565978765487671,
+          0.03199031576514244,
+          0.030183712020516396,
+          0.022571440786123276
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8512464761734009,
+          "bbox": [
+            0.5685763731598854,
+            0.401041679084301,
+            0.1295572966337204,
+            0.10619212687015533
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.8512464761734009,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_1.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "10305f48-5dce-47ec-a3fe-17d9b96fddfa;aves;passeriformes;turdidae;turdus;;turdus species",
+          "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+          "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+          "0f0ac612-8fd4-45fd-9afb-9628f4abb41b;aves;passeriformes;passerellidae;melospiza;melodia;song sparrow",
+          "fa374299-b42b-4e40-bef6-c9894a8fec9c;aves;passeriformes;pachycephalidae;colluricincla;harmonica;grey shrike-thrush"
+        ],
+        "scores": [
+          0.29498475790023804,
+          0.17688538134098053,
+          0.03342573717236519,
+          0.02285980060696602,
+          0.022706663236021996
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9582887291908264,
+          "bbox": [
+            0.1382378414273262,
+            0.47280095517635345,
+            0.1098090261220932,
+            0.21238425374031067
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9582887291908264,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_2.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "733ccf0d-f1b3-4586-8064-bd346ca7e8f1;aves;caprimulgiformes;caprimulgidae;;;caprimulgidae family",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal"
+        ],
+        "scores": [
+          0.7587360739707947,
+          0.06822102516889572,
+          0.0062986938282847404,
+          0.005408781114965677,
+          0.004920546896755695
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.016422947868704796,
+          "bbox": [
+            0.0004340261220932007,
+            0.45978008955717087,
+            0.1486545205116272,
+            0.0972222238779068
+          ]
+        }
+      ],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7587360739707947,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_3.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+          "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+          "733ccf0d-f1b3-4586-8064-bd346ca7e8f1;aves;caprimulgiformes;caprimulgidae;;;caprimulgidae family"
+        ],
+        "scores": [
+          0.7404044270515442,
+          0.04229588061571121,
+          0.007004023529589176,
+          0.006896807812154293,
+          0.006102208513766527
+        ]
+      },
+      "detections": [],
+      "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "prediction_score": 0.7404044270515442,
+      "prediction_source": "classifier",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_4.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "5a565886-156e-4b19-a017-6a5bbae4df0f;mammalia;lagomorpha;leporidae;oryctolagus;cuniculus;european rabbit",
+          "7a839b39-9916-45ec-a01b-d88d814a11ed;mammalia;rodentia;myocastoridae;myocastor;coypus;nutria",
+          "4834ffc5-1556-4ed5-8134-8f1fc5308252;mammalia;lagomorpha;leporidae;sylvilagus;brasiliensis;common tapeti",
+          "871ffea0-e0f3-4739-ac7f-4375aeeca8e0;mammalia;rodentia;cuniculidae;cuniculus;taczanowskii;mountain paca",
+          "cacc63d7-b949-4731-abce-a403ba76ee34;mammalia;lagomorpha;leporidae;sylvilagus;;sylvilagus species"
+        ],
+        "scores": [
+          0.7038958668708801,
+          0.1100647896528244,
+          0.027459781616926193,
+          0.01742824912071228,
+          0.01482381857931614
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.871249794960022,
+          "bbox": [
+            0.5815972089767456,
+            0.45283564180135727,
+            0.255859375,
+            0.18258102238178253
+          ]
+        }
+      ],
+      "prediction": "6c09fa63-2acc-4915-a60b-bd8cee40aedb;mammalia;lagomorpha;leporidae;;;rabbit and hare family",
+      "prediction_score": 0.7461794670671225,
+      "prediction_source": "classifier+geofence+rollup_to_family",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_5.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+          "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+          "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo"
+        ],
+        "scores": [
+          0.09583289176225662,
+          0.054755959659814835,
+          0.05267792567610741,
+          0.05028095841407776,
+          0.039259716868400574
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.8361150026321411,
+          "bbox": [
+            0.10091143846511841,
+            0.4149305671453476,
+            0.3500434160232544,
+            0.13425925374031067
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.8361150026321411,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_6.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "7a839b39-9916-45ec-a01b-d88d814a11ed;mammalia;rodentia;myocastoridae;myocastor;coypus;nutria",
+          "22f3d415-b3bc-4e37-a81a-504a69897974;mammalia;didelphimorphia;didelphidae;;;possum family",
+          "a20363a5-1283-4e73-b09c-aeb71e53ddef;mammalia;rodentia;muridae;rattus;rattus;house rat",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+        ],
+        "scores": [
+          0.1119951605796814,
+          0.07365670800209045,
+          0.067818284034729,
+          0.05735011771321297,
+          0.04954865947365761
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9400542378425598,
+          "bbox": [
+            0.0,
+            0.5509259253740311,
+            0.158203125,
+            0.34230324625968933
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9400542378425598,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_7.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+          "7a839b39-9916-45ec-a01b-d88d814a11ed;mammalia;rodentia;myocastoridae;myocastor;coypus;nutria",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "fa946dd2-42b8-41eb-a2a0-f5f2e4418d0b;mammalia;rodentia;muridae;mus;musculus;house mouse",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+        ],
+        "scores": [
+          0.112446129322052,
+          0.07810036092996597,
+          0.07345298677682877,
+          0.06820664554834366,
+          0.05050988867878914
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.856734037399292,
+          "bbox": [
+            0.0036892369389533997,
+            0.39872685074806213,
+            0.1634114533662796,
+            0.13396990299224854
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.856734037399292,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_8.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "7a839b39-9916-45ec-a01b-d88d814a11ed;mammalia;rodentia;myocastoridae;myocastor;coypus;nutria",
+          "b361a349-83d3-4066-b805-388dba79b2ef;mammalia;rodentia;echimyidae;dactylomys;;dactylomys species",
+          "936b55fb-1347-4dc9-8478-69799f5e877f;mammalia;carnivora;procyonidae;nasuella;olivacea;western mountain coati",
+          "cca9bb5b-1678-4608-b8bc-876d8d60cdcb;mammalia;rodentia;caviidae;galea;spixii;spix's yellow-toothed cavy",
+          "383d3e81-51db-4d5d-aac2-404d1efcf11f;mammalia;rodentia;echimyidae;thrichomys;;thrichomys species"
+        ],
+        "scores": [
+          0.20527967810630798,
+          0.05472248047590256,
+          0.051589787006378174,
+          0.04790904372930527,
+          0.04219066724181175
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9341961145401001,
+          "bbox": [
+            0.009114578366279602,
+            0.39293980598449707,
+            0.3322482705116272,
+            0.13165509700775146
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9341961145401001,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    },
+    {
+      "filepath": "images/image_9.jpg",
+      "country": "USA",
+      "classifications": {
+        "classes": [
+          "b361a349-83d3-4066-b805-388dba79b2ef;mammalia;rodentia;echimyidae;dactylomys;;dactylomys species",
+          "7a839b39-9916-45ec-a01b-d88d814a11ed;mammalia;rodentia;myocastoridae;myocastor;coypus;nutria",
+          "22f3d415-b3bc-4e37-a81a-504a69897974;mammalia;didelphimorphia;didelphidae;;;possum family",
+          "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+          "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+        ],
+        "scores": [
+          0.08250777423381805,
+          0.07569435983896255,
+          0.03976606950163841,
+          0.0329308919608593,
+          0.029883844777941704
+        ]
+      },
+      "detections": [
+        {
+          "category": "1",
+          "label": "animal",
+          "conf": 0.9021443724632263,
+          "bbox": [
+            0.001953125,
+            0.40740739554166794,
+            0.3780381977558136,
+            0.12731482088565826
+          ]
+        }
+      ],
+      "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "prediction_score": 0.9021443724632263,
+      "prediction_source": "detector",
+      "model_version": "4.0.1b"
+    }
+  ]
+}
