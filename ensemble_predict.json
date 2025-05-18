@@ -1,0 +1,352 @@
+{
+    "predictions": [
+        {
+            "filepath": "images/image_0.jpg",
+            "classifications": {
+                "classes": [
+                    "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+                    "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order",
+                    "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+                    "d5f41e40-03b5-466b-a269-d0dddab44cb5;aves;passeriformes;turdidae;turdus;philomelos;song thrush",
+                    "6acc4360-3b6c-4b7e-9d77-3c266e17255b;aves;passeriformes;turdidae;catharus;ustulatus;russet-backed thrush"
+                ],
+                "scores": [
+                    0.6056548357009888,
+                    0.09341584146022797,
+                    0.032806117087602615,
+                    0.012484033592045307,
+                    0.011892811395227909
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.8512464761734009,
+                    "bbox": [
+                        0.5685763731598854,
+                        0.401041679084301,
+                        0.1295572966337204,
+                        0.10619212687015533
+                    ]
+                }
+            ],
+            "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+            "prediction_score": 0.7562536392360926,
+            "prediction_source": "classifier+rollup_to_class",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_1.jpg",
+            "classifications": {
+                "classes": [
+                    "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+                    "23140944-2bd7-46ce-819a-c26508c53d62;aves;passeriformes;turdidae;turdus;migratorius;american robin",
+                    "a92f5ecb-13d3-44b1-837f-d085d2e2ea19;aves;columbiformes;columbidae;;;columbidae family",
+                    "f1675b99-08c4-46d4-a281-e7b8e2104a24;aves;passeriformes;turdidae;;;turdidae family",
+                    "0b62f436-aced-4b92-ad12-4700b7185c79;aves;passeriformes;;;;passeriformes order"
+                ],
+                "scores": [
+                    0.7708883881568909,
+                    0.013964876532554626,
+                    0.013386075384914875,
+                    0.013136628083884716,
+                    0.012320846319198608
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.9582887291908264,
+                    "bbox": [
+                        0.1382378414273262,
+                        0.47280095517635345,
+                        0.1098090261220932,
+                        0.21238425374031067
+                    ]
+                }
+            ],
+            "prediction": "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+            "prediction_score": 0.7708883881568909,
+            "prediction_source": "classifier",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_2.jpg",
+            "classifications": {
+                "classes": [
+                    "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+                    "e2895ed5-780b-48f6-8a11-9e27cb594511;;;;;;vehicle",
+                    "990ae9dd-7a59-4344-afcb-1b7b21368000;mammalia;primates;hominidae;homo;sapiens;human",
+                    "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote",
+                    "9805e578-061a-49c0-8abc-ea135381c162;aves;passeriformes;corvidae;corvus;corax;common raven"
+                ],
+                "scores": [
+                    0.8851333856582642,
+                    0.05858192965388298,
+                    0.01058203261345625,
+                    0.002753566252067685,
+                    0.0014204259496182203
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.016422947868704796,
+                    "bbox": [
+                        0.0004340261220932007,
+                        0.45978008955717087,
+                        0.1486545205116272,
+                        0.0972222238779068
+                    ]
+                }
+            ],
+            "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+            "prediction_score": 0.8851333856582642,
+            "prediction_source": "classifier",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_3.jpg",
+            "classifications": {
+                "classes": [
+                    "a5fc7382-e913-48c8-bcc2-e4b78ec44209;reptilia;crocodylia;crocodylidae;crocodylus;niloticus;crocodile",
+                    "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+                    "96a61999-e7b0-4442-8a6b-9c2ea3a38d98;reptilia;squamata;varanidae;varanus;varius;lace monitor",
+                    "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+                    "9fb844bd-26d1-49f1-a829-0025a48d3bdb;insecta;;;;;insect"
+                ],
+                "scores": [
+                    0.7240634560585022,
+                    0.2610534131526947,
+                    0.0032008427660912275,
+                    0.0008726856904104352,
+                    0.0005264654755592346
+                ]
+            },
+            "detections": [],
+            "prediction": "739a105e-d883-4ff8-9282-7ec44018e6a0;reptilia;;;;;reptile",
+            "prediction_score": 0.7272642988245934,
+            "prediction_source": "classifier+rollup_to_class",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_4.jpg",
+            "classifications": {
+                "classes": [
+                    "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+                    "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot",
+                    "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+                    "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+                    "7a0f448a-d190-4087-a273-8dddfb0edbfc;mammalia;diprotodontia;potoroidae;aepyprymnus;rufescens;rufous bettong"
+                ],
+                "scores": [
+                    0.538097620010376,
+                    0.1089332327246666,
+                    0.10251102596521378,
+                    0.07771109789609909,
+                    0.0352807380259037
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.871249794960022,
+                    "bbox": [
+                        0.5815972089767456,
+                        0.45283564180135727,
+                        0.255859375,
+                        0.18258102238178253
+                    ]
+                }
+            ],
+            "prediction": "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+            "prediction_score": 0.7183197438716888,
+            "prediction_source": "classifier+rollup_to_genus",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_5.jpg",
+            "classifications": {
+                "classes": [
+                    "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+                    "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo",
+                    "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+                    "c6d86eca-a84f-4e62-ab7c-0cbaeffda76c;mammalia;diprotodontia;potoroidae;potorous;;potorous species",
+                    "d5b17565-2220-4d49-85e6-00e1295f6169;mammalia;peramelemorphia;peramelidae;perameles;nasuta;long-nosed bandicoot"
+                ],
+                "scores": [
+                    0.23620223999023438,
+                    0.10705306380987167,
+                    0.06587229669094086,
+                    0.046682510524988174,
+                    0.04338078945875168
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.8361150026321411,
+                    "bbox": [
+                        0.10091143846511841,
+                        0.4149305671453476,
+                        0.3500434160232544,
+                        0.13425925374031067
+                    ]
+                }
+            ],
+            "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+            "prediction_score": 0.8361150026321411,
+            "prediction_source": "detector",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_6.jpg",
+            "classifications": {
+                "classes": [
+                    "9880b662-dc21-453b-aa2f-dd97338f623b;mammalia;rodentia;muridae;;;muridae family",
+                    "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+                    "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+                    "22f3d415-b3bc-4e37-a81a-504a69897974;mammalia;didelphimorphia;didelphidae;;;possum family",
+                    "00049ff0-2ffa-4d82-8cf3-c861fbbfa9d5;mammalia;rodentia;muridae;rattus;;rattus species"
+                ],
+                "scores": [
+                    0.5217971801757812,
+                    0.07204745709896088,
+                    0.05365879088640213,
+                    0.04782326892018318,
+                    0.034519512206315994
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.9400542378425598,
+                    "bbox": [
+                        0.0,
+                        0.5509259253740311,
+                        0.158203125,
+                        0.34230324625968933
+                    ]
+                }
+            ],
+            "prediction": "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+            "prediction_score": 0.7298462092876434,
+            "prediction_source": "classifier+rollup_to_class",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_7.jpg",
+            "classifications": {
+                "classes": [
+                    "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+                    "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat",
+                    "73dfcd72-4b80-42be-8db3-18cbd35a957f;mammalia;rodentia;dasyproctidae;myoprocta;acouchy;red acouchi",
+                    "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+                    "5df7a745-123f-4e49-bc67-540377e42fe3;mammalia;rodentia;hystricidae;trichys;fasciculata;long-tailed porcupine"
+                ],
+                "scores": [
+                    0.24934807419776917,
+                    0.12262396514415741,
+                    0.06635383516550064,
+                    0.062095869332551956,
+                    0.05810301750898361
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.856734037399292,
+                    "bbox": [
+                        0.0036892369389533997,
+                        0.39872685074806213,
+                        0.1634114533662796,
+                        0.13396990299224854
+                    ]
+                }
+            ],
+            "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+            "prediction_score": 0.856734037399292,
+            "prediction_source": "detector",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_8.jpg",
+            "classifications": {
+                "classes": [
+                    "ff803ff7-ed2b-4520-9304-99b408657f47;mammalia;rodentia;muridae;rattus;norvegicus;brown rat",
+                    "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+                    "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+                    "bf9b4f1c-0b5d-49a9-ab20-0c8d0401b768;mammalia;diprotodontia;potoroidae;potorous;tridactylus;long-nosed potoroo",
+                    "ebae8364-48b4-462b-9e2b-b13fb4751a22;mammalia;rodentia;cricetidae;neotoma;floridana;eastern woodrat"
+                ],
+                "scores": [
+                    0.46633902192115784,
+                    0.06836293637752533,
+                    0.04213915765285492,
+                    0.041987095028162,
+                    0.040472134947776794
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.9341961145401001,
+                    "bbox": [
+                        0.009114578366279602,
+                        0.39293980598449707,
+                        0.3322482705116272,
+                        0.13165509700775146
+                    ]
+                }
+            ],
+            "prediction": "f2d233e3-80e3-433d-9687-e29ecc7a467a;mammalia;;;;;mammal",
+            "prediction_score": 0.6593003459274769,
+            "prediction_source": "classifier+rollup_to_class",
+            "model_version": "4.0.1a"
+        },
+        {
+            "filepath": "images/image_9.jpg",
+            "classifications": {
+                "classes": [
+                    "a1f9890b-851d-4740-a85a-c4ae4d06503a;mammalia;rodentia;cricetidae;ondatra;zibethicus;muskrat",
+                    "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+                    "383d3e81-51db-4d5d-aac2-404d1efcf11f;mammalia;rodentia;echimyidae;thrichomys;;thrichomys species",
+                    "33260584-7ce8-49a5-a8ee-7ac01be663bf;mammalia;peramelemorphia;peramelidae;isoodon;macrourus;northern brown bandicoot",
+                    "1cf71cdd-d0d9-4822-901d-b2bfa520cd94;mammalia;diprotodontia;potoroidae;potorous;longipes;long-footed potoroo"
+                ],
+                "scores": [
+                    0.1337999701499939,
+                    0.10926008224487305,
+                    0.05215907096862793,
+                    0.04705396294593811,
+                    0.045746318995952606
+                ]
+            },
+            "detections": [
+                {
+                    "category": "1",
+                    "label": "animal",
+                    "conf": 0.9021443724632263,
+                    "bbox": [
+                        0.001953125,
+                        0.40740739554166794,
+                        0.3780381977558136,
+                        0.12731482088565826
+                    ]
+                }
+            ],
+            "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+            "prediction_score": 0.9021443724632263,
+            "prediction_source": "detector",
+            "model_version": "4.0.1a"
+        }
+    ]
+}
