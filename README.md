@@ -1,4 +1,3 @@
-
 # Introduction
 Urban Rivers is a conservation organization, "Transforming urban waterways into wildlife sanctuaries, creating opportunities for people of all backgrounds to connect with nature in new and meaningful ways"  
 
@@ -21,8 +20,8 @@ https://wildlabs.net/discussion/we-are-releasing-speciesnet
 
 The detector portion of the code was developed by Dan Morris with the AI for Earth Team - Megadetector  
 https://github.com/agentmorris/MegaDetector  
-
-# To get started, clone the env file 
+=======
+To get started, clone the env file 
 > conda env create -f environment.yml
 
 
@@ -40,4 +39,3 @@ Speciesnet resource
 }
 
 https://github.com/google/cameratrapai
-
